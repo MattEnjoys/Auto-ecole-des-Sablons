@@ -1,0 +1,4 @@
+2023-07-15T07:44:05+00:00 CRITICAL Possible integer overflow in memory allocation (2 * 27674 + 32) in C:\Logiciels_Developpement\laragon\www\Wordpress\autoecole_Studi\wp-includes\shortcodes.php on line 227
+
+2023-07-15T07:46:15+00:00 CRITICAL Possible integer overflow in memory allocation (2 * 27960 + 32) in C:\Logiciels_Developpement\laragon\www\Wordpress\autoecole_Studi\wp-includes\shortcodes.php on line 227
+
