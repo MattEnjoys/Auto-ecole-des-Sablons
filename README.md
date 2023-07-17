@@ -127,7 +127,7 @@ MONSTERINSIGHT A VOIR
 
 > cookie notice (obligatoire pour le rgpd) et la page de mentions légales
 
-> All in One SEO (à la place de Yoast SEO).
+> All in One SEO ou encore Rank math (tutos sur YouTube la chaîne c wporigami) (à la place de Yoast SEO).
 
 > Le client payera:
 
